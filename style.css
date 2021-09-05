@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    padding: 30px;
+    
+}
+.text-logo{
+    text-align: center;
+    padding: 40px;
+    display: inline;
+}
+.text-logo h1{
+    font-size: 70px;
+}
+.main-box {
+    width: 613px;
+    border: none;
+    margin: auto;
+     border-radius: 50px;
+    height: 750px;
+    background: darkturquoise;
+}
+.display{
+    text-align: center;
+    padding: 50px;
+}
+.display input{
+    width: 50vh;
+    
+    border: none;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+button{
+    font-size: 60px;
+    width: 105px;
+    border-radius: in0px;
+    height: 95px;
+    text-align: center;
+}
+table {
+    text-align: center;
+    margin: auto;
+    background: currentColor;
+}
+.buttom-text{
+margin: auto;
+    padding: 40px;
+}
+.buttom-text p{
+    font-size: 30px;
+    float: right;
+}
